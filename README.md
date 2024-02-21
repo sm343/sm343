@@ -10,8 +10,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/sanjeev-mallick-190481226/">
     <img src="https://img.shields.io/badge/LinkedIn-Sanjeev_Mallick-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-  </a>&nbsp;&nbsp;
-  <a href="mailto:sanjeevmallick2@gmail.com">
+  </a><a href="mailto:sanjeevmallick2@gmail.com">
     <img src="https://img.shields.io/badge/Email-sanjeevmallick2%40gmail.com-red?style=flat-square&logo=gmail" alt="Email">
   </a>
 </p>
