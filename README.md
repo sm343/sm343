@@ -7,11 +7,12 @@
 
 ## 🤝🏻 Connect with Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sanjeev-mallick-190481226/">
-    <img src="https://img.shields.io/badge/LinkedIn-Sanjeev_Mallick-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-  </a><a href="mailto:sanjeevmallick2@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sanjeevmallick2%40gmail.com-red?style=flat-square&logo=gmail" alt="Email">
+<p align="center" style="display: flex; justify-content: center; gap: 10px;">
+  <a href="https://www.linkedin.com/in/sanjeev-mallick-190481226/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Sanjeev_Mallick-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:sanjeevmallick2@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-sanjeevmallick2%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
